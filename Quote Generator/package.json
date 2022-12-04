@@ -1,0 +1,14 @@
+{
+  "name": "quote-generator",
+  "version": "1.0.0",
+  "description": "Project which generates random quotes",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Shalini C E",
+  "license": "ISC",
+  "dependencies": {
+    "inspirational-quotes": "^2.0.1"
+  }
+}
